@@ -13,5 +13,7 @@ new timer Noot noot I guess 00000100
 
 ## Plans
 - Add sounds for the completion of alarms and timers.
-- Make the threading work nice together.
+- Make the threading work nicer together.
 - Make the code more readable.
+- Use the argparse module.
+- And more!
