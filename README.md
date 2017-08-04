@@ -7,7 +7,7 @@ new timer <timer name> <time in seconds (format: ssssssss) - creates a timer in 
 help - shows the help menu
 quit - exits the program
 
-### Examples
+#### Examples
 new alarm An alarm's name 17/08/04/23/10
 new timer Noot noot I guess 00000100
 
